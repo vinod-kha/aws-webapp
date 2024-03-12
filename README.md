@@ -4,7 +4,7 @@
 
 1. Clone this project
 ```
-git clone https://github.com/verma-kunal/aws-webapp
+git clone https://github.com/vinod-kha/aws-webapp
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
